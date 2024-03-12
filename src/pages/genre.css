@@ -1,0 +1,23 @@
+.genre .filteringGenre {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+
+.genre .filteringGenre li {
+    color: #ffffff;
+    padding: 10px 25px;
+    background: #191919;
+    transition: 0.3s;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+.genre .filteringGenre li:hover,
+.genre .filteringGenre li.active {
+    background: var(--primary);
+}
