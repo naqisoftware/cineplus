@@ -31,7 +31,7 @@ function GenreList({e}) {
     >
         <div className="genre-card">
             <img src={e.image} 
-                 alt="image" 
+                 alt={e.title} 
                  className="image-list" 
                  onClick={handlePlayClickTrailer} 
             />
