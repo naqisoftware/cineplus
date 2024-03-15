@@ -1,70 +1,33 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- THIS IS THE HOME PAGE OF THE ANIME & KDRAMA APPLICATION
+  
+![imagetwo](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/bbdfbee7-2ec4-42fd-afda-3b51457c01b1)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+- USER CAN THE SWIPER TO DRAG THROUGHT THE ANIMEs AD KDRAMAs AND WITH A CLICK THE SELECTED ANIME/KDRAMA WILL BE DISPLAYED ON THE FRONT PAGE
+- THE LEFT HAND SIDE OF THE WINDOW WILL DISPLAY A DESCRIPTION ASED ON THE SELECTED ANIME/KDRAMA
+- THE RIGGHT HAND OF THE WINDOWS DISPLAYS A PLAY BUTTON WHICH WILL OPEN UP A NEW TAB WITH THE TRAILER OF THE SELECTED ANIME/KDRAMA
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![imagetwoone](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/39eb62fa-4714-4f5b-b3a9-334effd31629)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- AS YOU SCROLL DOWN - YOU CAN SEE A LIST GENRES. THIS ALLOWS THE USER TO MAKE IT EASIER TO FILTER AND SEARCH FOR SPECIFIC ANIME/KDRAMA BASED ON THIER FAVOURITE GENRE
+- THE SELECTED ANIME/KDRAMA WILL RE-DIRECT USER TO THE TRAILER ONCE CLICKED ON
 
-### `npm run build`
+![imagetwotwo](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/e183f6a8-6dfd-40e9-ac04-453fbe608e87)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- THE FINAL SECTION THE APPLICATION LISTS THE TOP RATED ANIMEs/KDRAMAs
 
-### `npm run eject`
+![imagetwothree](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/5c3c8948-95c5-4ab0-af34-db5e40590562)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- THE APPLICATION IS RESPOSIVE AND IT IS COMPATIBLE WITH SMALLER DEVICES
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![resposivetwo](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/010a0696-83c0-4a0e-9c29-46ede70cfdb9)           ![responsivetwotwo](https://github.com/naqisoftware/newfloodmonitoring/assets/163060214/d552176c-587c-4869-a5bc-66328188e988)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
